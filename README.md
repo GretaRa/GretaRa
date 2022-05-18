@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 ### 👋 Hi 
 
 <!--
@@ -22,4 +24,4 @@ This year I decided to learn how to create websites. So curently I am getting to
 - Finish The Odin Project 
 - Build a Portfolio website
 
-![Header](./github-header-image.png)
+
