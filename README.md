@@ -21,3 +21,5 @@ This year I decided to learn how to create websites. So curently I am getting to
 - Start learning JavaScript Basics
 - Finish The Odin Project 
 - Build a Portfolio website
+
+![Header](./your-header-image-name.png)
