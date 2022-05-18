@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi 
 
 <!--
 **GretaRa/GretaRa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+This year I decided to learn how to create websites. So curently I am getting to know HTML and CSS ins and outs by following courses and recreating projects. 
+
+🌱 Current goals:
+- Get comfortable working with vanilla HTML and CSS
+- Start learning JavaScript Basics
+- Finish The Odin Project 
+- Build a Portfolio website
