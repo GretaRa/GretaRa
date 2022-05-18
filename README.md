@@ -22,4 +22,4 @@ This year I decided to learn how to create websites. So curently I am getting to
 - Finish The Odin Project 
 - Build a Portfolio website
 
-![Header](./your-header-image-name.png)
+![Header](your-header-image-name.png)
