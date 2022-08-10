@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a junior front-end developer. You can find my portfiolo website in progress at https://gretara.github.io/portfolio2/
+I am a junior front-end developer. My portfolio website: https://gretara.github.io/portfolio2/
 
+I am always open for new opportunities and ideas at https://linkedin.com/in/greta-rakauskaite !
 
