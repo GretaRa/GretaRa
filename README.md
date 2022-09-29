@@ -1,4 +1,4 @@
-![Header](./header.png)
+![Header](./header1.png)
 
 <!--
 **GretaRa/GretaRa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
