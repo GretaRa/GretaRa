@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🚀 Check out my [portfolio](https://gretara.github.io/portfolio2023/)!  
+💬 Have a question or want to collaborate? Let's start a conversation on [LinkedIn](https://linkedin.com/in/greta-rakauskaite).
 
-I am always open for new opportunities and ideas at https://linkedin.com/in/greta-rakauskaite !
 
